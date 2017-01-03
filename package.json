@@ -4,7 +4,8 @@
   "description": "Node add to scrap instagram profile of users",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
   },
   "author": "anandp219",
   "license": "ISC"
