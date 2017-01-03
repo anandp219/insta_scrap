@@ -8,5 +8,9 @@
     "start": "node index.js"
   },
   "author": "anandp219",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0"
+  }
 }
